@@ -1,16 +1,18 @@
 ## Hi there 👋
+# 何亚龙 (Yalong He)
 
-<!--
-**YalongHe/YalongHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **电子科技大学 (UESTC)** | 本科生
 
-Here are some ideas to get you started:
+## 📝 关于我
+你好！我是何亚龙，目前就读于电子科技大学。我的研究兴趣主要集中在：
+- 自然语言处理 (Computer Vision)
+- 深度学习 (Deep Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 联系方式
+- 📧 邮箱: 2023120905014@std.uestc.edu.cn
+- 🏠 个人主页: https://github.com/YalongHe
+
+
+## 🛠️ 技能栈
+- **编程语言**: Python, C++, MATLAB
+- **框架**: PyTorch, TensorFlow
